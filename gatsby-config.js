@@ -7,7 +7,7 @@ module.exports = {
     siteTitle: `Justin Curry`,
     siteTitleAlt: `Justin Curry portfolio`,
     siteHeadline: `Justin Curry`,
-    siteUrl: `https://justincurry.netlify.app/`,
+    siteUrl: `https://github.com/jaaykid/portfolio`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     siteImage: `/banner.jpg`,
