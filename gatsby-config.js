@@ -4,10 +4,15 @@ require(`dotenv`).config({
 
 module.exports = {
   siteMetadata: {
-    // You can overwrite values here that are used for the SEO component
-    // Of course you can also add new values here to query them like usual
-    // See all options: https://github.com/LekoArts/gatsby-themes/blob/master/themes/gatsby-theme-cara/gatsby-config.js
-    siteTitleAlt: `Justin Curry`,
+    siteTitle: `Justin Curry`,
+    siteTitleAlt: `Justin Curry portfolio`,
+    siteHeadline: `Justin Curry`,
+    siteUrl: `https://justincurry.netlify.app/`,
+    siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
+    siteLanguage: `en`,
+    siteImage: `/banner.jpg`,
+    author: `Justin Curry`,
+    basePath,
   },
   plugins: [
     {
