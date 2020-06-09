@@ -10,7 +10,6 @@ module.exports = {
     siteUrl: `https://github.com/jaaykid/portfolio`,
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
-    siteImage: `/banner.jpg`,
     author: `Justin Curry`,
     basePath,
   },
