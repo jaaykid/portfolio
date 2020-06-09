@@ -11,7 +11,6 @@ module.exports = {
     siteDescription: `Playful and Colorful One-Page portfolio featuring Parallax effects and animations`,
     siteLanguage: `en`,
     author: `Justin Curry`,
-    basePath,
   },
   plugins: [
     {
